@@ -8,6 +8,7 @@ I'm a backend software engineer that enjoys photography, art, music, running, an
 # Professional
 ![Spotify](./img/spotify.png)
 ### **Spotify** - Software Engineer II
+Building scalable backend services to support the Live Audio experience.
 
 ---
 
