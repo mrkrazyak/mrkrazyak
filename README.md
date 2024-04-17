@@ -6,15 +6,20 @@
 I'm a backend software engineer that enjoys photography, art, music, running, and rowing.
 
 # Professional
+![Flex](./img/flex.png)
+### **Flex** - Senior Software Engineer
+
+---
+
 ![Spotify](./img/spotify.png)
 ### **Spotify** - Software Engineer II
-Building scalable backend services to support the Live Audio experience.
+Building scalable backend services to support the Live Audio experience and user interactivity features (Q&As, Polls, Ratings etc.)
 
 ---
 
 ![Paychex](./img/paychex.png)
 ### **Paychex** - Software Engineer II
-Developed an external API by creating new services in a microservice architecture and adding to existing services. Owned cross-cutting concerns utilized by services including OAuth 2.0 authorization, partner notifications, and external API connections.
+Developed an external API and refactored business functions into a microservice architecture. Owned cross-cutting concerns utilized by services including OAuth 2.0 authorization, partner notifications, and external API connections.
 
 #### Internships
 
