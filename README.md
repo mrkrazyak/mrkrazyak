@@ -3,7 +3,7 @@
 ![Banner](./img/banner_boathouse.jpg)
 
 # Nick Krzysiak
-I'm a backend software engineer that enjoys photography, art, music, running, and rowing.
+I'm a software engineer
 
 # Professional
 ![Flex](./img/flex.png)
