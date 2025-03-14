@@ -13,7 +13,7 @@ I'm a software engineer
 
 ![Spotify](./img/spotify.png)
 ### **Spotify** - Software Engineer II
-Building scalable backend services to support the Live Audio experience and user interactivity features (Q&As, Polls, Ratings etc.)
+Building scalable backend services to support the Live Audio experience and user interactivity features (Podcast Comments, Q&As, Polls, Ratings etc.)
 
 ---
 
