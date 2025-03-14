@@ -21,8 +21,6 @@ Building scalable backend services to support the Live Audio experience and user
 ### **Paychex** - Software Engineer II
 Developed an external API and refactored business functions into a microservice architecture. Owned cross-cutting concerns utilized by services including OAuth 2.0 authorization, partner notifications, and external API connections.
 
-#### Internships
-
 ---
 
 ### **Rochester Institute of Technology** - Software Engineer Co-op
